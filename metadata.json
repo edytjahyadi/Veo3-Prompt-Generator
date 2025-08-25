@@ -1,0 +1,5 @@
+{
+  "name": "VEO3 Prompt Generator",
+  "description": "A web application to generate detailed text and JSON prompts for the VEO3 text-to-video model. Group inputs by characters, dialogues, and environment/camera settings for comprehensive scene creation.",
+  "requestFramePermissions": []
+}
